@@ -1,0 +1,101 @@
+image_path,label,isic_id,isic_diagnosis,confirm_type,source_url
+images/ISIC_0012491.jpg,akiec,ISIC_0012491,Solar or actinic keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012491.jpg
+images/ISIC_0021478.jpg,akiec,ISIC_0021478,Squamous cell carcinoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0021478.jpg
+images/ISIC_0011726.jpg,akiec,ISIC_0011726,Squamous cell carcinoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011726.jpg
+images/ISIC_0021528.jpg,akiec,ISIC_0021528,Squamous cell carcinoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0021528.jpg
+images/ISIC_0020982.jpg,akiec,ISIC_0020982,Squamous cell carcinoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0020982.jpg
+images/ISIC_0021016.jpg,akiec,ISIC_0021016,Squamous cell carcinoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0021016.jpg
+images/ISIC_0011910.jpg,akiec,ISIC_0011910,Solar or actinic keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011910.jpg
+images/ISIC_0011472.jpg,akiec,ISIC_0011472,Solar or actinic keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011472.jpg
+images/ISIC_0012485.jpg,akiec,ISIC_0012485,Solar or actinic keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012485.jpg
+images/ISIC_0012312.jpg,akiec,ISIC_0012312,Solar or actinic keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012312.jpg
+images/ISIC_0021071.jpg,akiec,ISIC_0021071,Squamous cell carcinoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0021071.jpg
+images/ISIC_0021280.jpg,akiec,ISIC_0021280,Squamous cell carcinoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0021280.jpg
+images/ISIC_0011627.jpg,bcc,ISIC_0011627,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011627.jpg
+images/ISIC_0012430.jpg,bcc,ISIC_0012430,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012430.jpg
+images/ISIC_0012163.jpg,bcc,ISIC_0012163,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012163.jpg
+images/ISIC_0011752.jpg,bcc,ISIC_0011752,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011752.jpg
+images/ISIC_0011730.jpg,bcc,ISIC_0011730,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011730.jpg
+images/ISIC_0012305.jpg,bcc,ISIC_0012305,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012305.jpg
+images/ISIC_0012226.jpg,bcc,ISIC_0012226,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012226.jpg
+images/ISIC_0012488.jpg,bcc,ISIC_0012488,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012488.jpg
+images/ISIC_0011848.jpg,bcc,ISIC_0011848,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011848.jpg
+images/ISIC_0012345.jpg,bcc,ISIC_0012345,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012345.jpg
+images/ISIC_0012070.jpg,bcc,ISIC_0012070,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012070.jpg
+images/ISIC_0012361.jpg,bcc,ISIC_0012361,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012361.jpg
+images/ISIC_0012371.jpg,bcc,ISIC_0012371,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012371.jpg
+images/ISIC_0012466.jpg,bcc,ISIC_0012466,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012466.jpg
+images/ISIC_0012429.jpg,bcc,ISIC_0012429,Basal cell carcinoma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012429.jpg
+images/ISIC_0012050.jpg,bkl,ISIC_0012050,Seborrheic keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012050.jpg
+images/ISIC_0014109.jpg,bkl,ISIC_0014109,Solar lentigo,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0014109.jpg
+images/ISIC_0012849.jpg,bkl,ISIC_0012849,Lichen planus like keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012849.jpg
+images/ISIC_0012008.jpg,bkl,ISIC_0012008,Solar lentigo,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012008.jpg
+images/ISIC_0015269.jpg,bkl,ISIC_0015269,Solar lentigo,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0015269.jpg
+images/ISIC_0013292.jpg,bkl,ISIC_0013292,Lichen planus like keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0013292.jpg
+images/ISIC_0012728.jpg,bkl,ISIC_0012728,Lichen planus like keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012728.jpg
+images/ISIC_0012145.jpg,bkl,ISIC_0012145,Lichen planus like keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012145.jpg
+images/ISIC_0010997.jpg,bkl,ISIC_0010997,Solar lentigo,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010997.jpg
+images/ISIC_0014297.jpg,bkl,ISIC_0014297,Solar lentigo,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0014297.jpg
+images/ISIC_0013755.jpg,bkl,ISIC_0013755,Lichen planus like keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0013755.jpg
+images/ISIC_0010082.jpg,bkl,ISIC_0010082,Solar lentigo,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010082.jpg
+images/ISIC_0013524.jpg,bkl,ISIC_0013524,Lichen planus like keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0013524.jpg
+images/ISIC_0015066.jpg,bkl,ISIC_0015066,Solar lentigo,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0015066.jpg
+images/ISIC_0011916.jpg,bkl,ISIC_0011916,Seborrheic keratosis,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011916.jpg
+images/ISIC_0012995.jpg,df,ISIC_0012995,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012995.jpg
+images/ISIC_0001130.jpg,df,ISIC_0001130,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0001130.jpg
+images/ISIC_0014450.jpg,df,ISIC_0014450,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0014450.jpg
+images/ISIC_0012165.jpg,df,ISIC_0012165,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012165.jpg
+images/ISIC_0012712.jpg,df,ISIC_0012712,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012712.jpg
+images/ISIC_0013021.jpg,df,ISIC_0013021,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0013021.jpg
+images/ISIC_0014128.jpg,df,ISIC_0014128,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0014128.jpg
+images/ISIC_0011433.jpg,df,ISIC_0011433,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011433.jpg
+images/ISIC_0001114.jpg,df,ISIC_0001114,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0001114.jpg
+images/ISIC_0012196.jpg,df,ISIC_0012196,Dermatofibroma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012196.jpg
+images/ISIC_0000042.jpg,nv,ISIC_0000042,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000042.jpg
+images/ISIC_0000092.jpg,nv,ISIC_0000092,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000092.jpg
+images/ISIC_0000033.jpg,nv,ISIC_0000033,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000033.jpg
+images/ISIC_0000068.jpg,nv,ISIC_0000068,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000068.jpg
+images/ISIC_0000058.jpg,nv,ISIC_0000058,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000058.jpg
+images/ISIC_0000055.jpg,nv,ISIC_0000055,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000055.jpg
+images/ISIC_0000081.jpg,nv,ISIC_0000081,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000081.jpg
+images/ISIC_0000109.jpg,nv,ISIC_0000109,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000109.jpg
+images/ISIC_0000016.jpg,nv,ISIC_0000016,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000016.jpg
+images/ISIC_0000050.jpg,nv,ISIC_0000050,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000050.jpg
+images/ISIC_0000079.jpg,nv,ISIC_0000079,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000079.jpg
+images/ISIC_0000051.jpg,nv,ISIC_0000051,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000051.jpg
+images/ISIC_0000106.jpg,nv,ISIC_0000106,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000106.jpg
+images/ISIC_0000095.jpg,nv,ISIC_0000095,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000095.jpg
+images/ISIC_0000107.jpg,nv,ISIC_0000107,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000107.jpg
+images/ISIC_0000044.jpg,nv,ISIC_0000044,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000044.jpg
+images/ISIC_0000119.jpg,nv,ISIC_0000119,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000119.jpg
+images/ISIC_0000120.jpg,nv,ISIC_0000120,Nevus,,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000120.jpg
+images/ISIC_0022386.jpg,vasc,ISIC_0022386,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0022386.jpg
+images/ISIC_0013108.jpg,vasc,ISIC_0013108,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0013108.jpg
+images/ISIC_0011574.jpg,vasc,ISIC_0011574,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0011574.jpg
+images/ISIC_0015422.jpg,vasc,ISIC_0015422,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0015422.jpg
+images/ISIC_0001129.jpg,vasc,ISIC_0001129,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0001129.jpg
+images/ISIC_0021841.jpg,vasc,ISIC_0021841,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0021841.jpg
+images/ISIC_0015916.jpg,vasc,ISIC_0015916,Hemangioma,single image expert consensus,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0015916.jpg
+images/ISIC_0022714.jpg,vasc,ISIC_0022714,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0022714.jpg
+images/ISIC_0012017.jpg,vasc,ISIC_0012017,Hemangioma,single image expert consensus,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0012017.jpg
+images/ISIC_0022717.jpg,vasc,ISIC_0022717,Hemangioma,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0022717.jpg
+images/ISIC_0010414.jpg,mel,ISIC_0010414,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010414.jpg
+images/ISIC_0009910.jpg,mel,ISIC_0009910,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0009910.jpg
+images/ISIC_0010534.jpg,mel,ISIC_0010534,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010534.jpg
+images/ISIC_0000036.jpg,mel,ISIC_0000036,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000036.jpg
+images/ISIC_0010376.jpg,mel,ISIC_0010376,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010376.jpg
+images/ISIC_0000054.jpg,mel,ISIC_0000054,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000054.jpg
+images/ISIC_0000299.jpg,mel,ISIC_0000299,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000299.jpg
+images/ISIC_0009934.jpg,mel,ISIC_0009934,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0009934.jpg
+images/ISIC_0000049.jpg,mel,ISIC_0000049,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000049.jpg
+images/ISIC_0010407.jpg,mel,ISIC_0010407,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010407.jpg
+images/ISIC_0010308.jpg,mel,ISIC_0010308,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010308.jpg
+images/ISIC_0010322.jpg,mel,ISIC_0010322,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010322.jpg
+images/ISIC_0010369.jpg,mel,ISIC_0010369,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010369.jpg
+images/ISIC_0010358.jpg,mel,ISIC_0010358,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010358.jpg
+images/ISIC_0000520.jpg,mel,ISIC_0000520,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000520.jpg
+images/ISIC_0010148.jpg,mel,ISIC_0010148,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010148.jpg
+images/ISIC_0000295.jpg,mel,ISIC_0000295,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000295.jpg
+images/ISIC_0000312.jpg,mel,ISIC_0000312,Melanoma Invasive,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0000312.jpg
+images/ISIC_0010413.jpg,mel,ISIC_0010413,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010413.jpg
+images/ISIC_0010402.jpg,mel,ISIC_0010402,Melanoma in situ,histopathology,https://isic-archive.s3.us-east-1.amazonaws.com/images/ISIC_0010402.jpg

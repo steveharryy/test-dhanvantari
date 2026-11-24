@@ -1,0 +1,2 @@
+tau,TP,FN,FP,TN,sensitivity,specificity,PPV,NPV,AUROC
+0.2282,38,9,35,18,0.8085,0.3396,0.5205,0.6667,0.7459
